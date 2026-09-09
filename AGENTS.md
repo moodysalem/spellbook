@@ -1,6 +1,6 @@
 # Spellbook Agent Instructions
 
-This file is the shared source of truth for AI agents working in Spellbook. Claude Code reads it through `CLAUDE.md`; opencode and Cursor read it natively.
+This file is the shared source of truth for coding agents working in Spellbook.
 
 ## Project Overview
 
